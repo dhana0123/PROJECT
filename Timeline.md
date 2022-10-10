@@ -1,3 +1,3 @@
 # Project begin
 
-### day 1 => 10/10/2022
+### day 1 [10/10/2022] => doing small ai project in just a hour
